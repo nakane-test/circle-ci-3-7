@@ -3,7 +3,7 @@
     "author": "yuto-ikenaga <ike.y.oct.23@outlook.jp>",
     "license": "MIT",
     "scripts": {
-        "test": "jest"
+        "test": "TZ='Asia/Tokyo' jest"
     },
     "devDependencies": {
         "jest": "^27.0.6"
